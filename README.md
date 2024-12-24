@@ -19,6 +19,6 @@ Follow these steps to get WindForce ML up and running on your system:
 
 1. **Clone the Repository**
    ```bash
-   git clone 
+   git clone https://github.com/Shikhara17/WindForceML.git
    cd windforce-ml
 
